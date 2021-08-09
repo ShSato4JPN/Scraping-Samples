@@ -1,0 +1,24 @@
+{
+  "name": "Scraping-Samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShSato4JPN/Scraping-Samples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShSato4JPN/Scraping-Samples/issues"
+  },
+  "homepage": "https://github.com/ShSato4JPN/Scraping-Samples#readme",
+  "devDependencies": {
+    "jsdom": "^16.7.0",
+    "node-fetch": "^2.6.1"
+  }
+}
